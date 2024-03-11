@@ -1,0 +1,16 @@
+Sistema de cadastro de login
+-> Cadastro
+-nome
+-email
+-senha
+
+->Login
+-email
+-senha
+
+->Tecnologias
+-python
+-poo
+-mvc
+-banco de dados
+-orm
