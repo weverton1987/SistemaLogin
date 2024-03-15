@@ -18,4 +18,3 @@ class Pessoas(Base):
     
 Base.metadata.create_all(engine)
 
-
