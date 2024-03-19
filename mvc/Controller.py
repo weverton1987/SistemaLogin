@@ -52,4 +52,5 @@ class ControllerLogin:
 #ControllerCadastro.cadastrar('caio', 'caio.h.sampaio@email.com', 'caio123456')
 
 #print(ControllerCadastro.cadastrar('weverton', 'weverton@email.com', '1234567'))
-print(ControllerLogin.login('weverton@email.com', '1234567'))
+#print(ControllerLogin.login('weverton@email.com', '1234567'))
+
