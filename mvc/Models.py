@@ -17,4 +17,3 @@ class Pessoas(Base):
     senha = Column(String(100))
     
 Base.metadata.create_all(engine)
-
